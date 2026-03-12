@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "LOVE SONG",
+  "base_artist": "CHAGE and ASKA",
+  "createdAt": "2026-03-12T13:57:02.590215Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A Very Special Love Song",
+      "artist": "Charlie Rich",
+      "has_synced": true,
+      "path": "select/01_A_Very_Special_Love_Song_Charlie_Rich.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A Very Special Love Song (Album Version)",
+      "artist": "Charlie Rich",
+      "has_synced": true,
+      "path": "select/02_A_Very_Special_Love_Song_(Album_Version)_Charlie_Rich.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "American Country Love Song",
+      "artist": "Jake Owen",
+      "has_synced": true,
+      "path": "select/03_American_Country_Love_Song_Jake_Owen.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Love Song",
+      "artist": "Marcus King",
+      "has_synced": false,
+      "path": "select/04_Love_Song_Marcus_King.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Love Song",
+      "artist": "方大同",
+      "has_synced": true,
+      "path": "select/05_Love_Song_方大同.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Love song",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/06_Love_song_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Love Song",
+      "artist": "Madonna",
+      "has_synced": false,
+      "path": "select/07_Love_Song_Madonna.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Love Song (with Prince)",
+      "artist": "Madonna",
+      "has_synced": false,
+      "path": "select/08_Love_Song_(with_Prince)_Madonna.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Love Song of the Fly",
+      "artist": "Mirah and Spectratone International",
+      "has_synced": false,
+      "path": "select/09_Love_Song_of_the_Fly_Mirah_and_Spectratone_International.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "One More Love Song",
+      "artist": "Mac DeMarco",
+      "has_synced": true,
+      "path": "select/10_One_More_Love_Song_Mac_DeMarco.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Love Song",
+      "artist": "Marilyn Manson",
+      "has_synced": true,
+      "path": "select/11_The_Love_Song_Marilyn_Manson.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "(This Is Not) A Love Song",
+      "artist": "Nouvelle Vague",
+      "has_synced": true,
+      "path": "select/12_(This_Is_Not)_A_Love_Song_Nouvelle_Vague.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Love Song",
+      "artist": "Vashti Bunyan",
+      "has_synced": true,
+      "path": "select/13_Love_Song_Vashti_Bunyan.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Love Song With Flute",
+      "artist": "Caravan",
+      "has_synced": true,
+      "path": "select/14_Love_Song_With_Flute_Caravan.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Love Song",
+      "artist": "CHAGE and ASKA",
+      "has_synced": false,
+      "path": "select/pl_01_Love_Song_CHAGE_and_ASKA.txt"
+    }
+  ]
+}
